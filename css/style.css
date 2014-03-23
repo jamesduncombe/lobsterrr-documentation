@@ -1,0 +1,33 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font: 16px/1.5 "museo-sans",Arial,sans-serif;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  padding: 1.6%;
+  background-color: #aa2929;
+  color: #fff;
+  font-weight: 300;
+  border-bottom: 5px solid #bcbcbc;
+}
+
+header a {
+  color: #fff;
+}
+
+header span {
+  font-size: 21px;
+  vertical-align: top;
+  padding-left: 7px;
+  opacity: .5;
+}
