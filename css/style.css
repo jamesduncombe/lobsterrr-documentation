@@ -11,6 +11,11 @@ body {
 
 a {
   text-decoration: none;
+  color: #aa2929;
+}
+
+p {
+  margin-bottom: 21px;
 }
 
 header {
@@ -19,6 +24,7 @@ header {
   color: #fff;
   font-weight: 300;
   border-bottom: 5px solid #bcbcbc;
+  margin-bottom: 21px;
 }
 
 header a {
@@ -30,4 +36,26 @@ header span {
   vertical-align: top;
   padding-left: 7px;
   opacity: .5;
+}
+
+aside, article {
+  padding: 1.6%;
+  float: left;
+}
+
+aside {
+  width: 22%;
+}
+
+aside li {
+  list-style: none;
+}
+
+article {
+  width: 66%;
+}
+
+article h1 {
+  margin-bottom: 10px;
+
 }
